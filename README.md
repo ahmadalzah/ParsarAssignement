@@ -126,6 +126,7 @@ operators, identifiers, numbers). Handles basic tokens like if, else, while, +, 
 
 
 2. Parser:
+
 a parser that converts a token stream into an Abstract Syntax Tree (AST). parsing logic for different constructs like assignment statements (x =
 expression), binary operations (expression1 + expression2), boolean expressions (x == y), if-else statements, while loops, and function calls.
 
